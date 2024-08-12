@@ -1,4 +1,6 @@
-
+# Descrição: O exercício consistirá na construção de um sistema (interface web) que possibilite ao usuário obter informações sobre os casos de mortes por Covid. Estes dados serão obtidos por meio da API-Covid-19 que está disponível no servidor da Kidopi. É possível obter dados do número de casos confirmados e mortes de vários países afetados pela COVID-19.
+# O exercício é um Projeto PHP que utiliza uma API para obter dados sobre COVID-19 e exibe essas informações em um sistema de interface web. Também são armazenadas informações sobre as consultas realizadas no banco de dados MySQL.
+# O exercício foi feito sem a parte bônus.
 <!DOCTYPE html>   <!-- html5--> 
 <html lang="en"> 
 <head>
